@@ -1,4 +1,4 @@
-module echo-app
+module github.com/arifinnor/echo-app
 
 go 1.21.1
 
